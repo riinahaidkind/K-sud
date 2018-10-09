@@ -1,16 +1,16 @@
-Uus repositoorium 
+# Uus repositoorium 
 
-Working directory untracked by Git 
-git init
+1. Working directory untracked by Git 
+**git init
 
-Create working directory that will be tracked by Git
+2. Create working directory that will be tracked by Git
 git add README.md
 
-Staging Area for the first commit
-git commit -m "first commit"
+3. Staging Area for the first commit
+**git commit -m "first commit"
 
-Local repository
-git remote add origin https://github.com/riinahaidkind/Kasud.git
+4. Local repository
+**git remote add origin https://github.com/riinahaidkind/Kasud.git
 
-Remote repository
-git push -u origin master
+5. Remote repository
+**git push -u origin master
